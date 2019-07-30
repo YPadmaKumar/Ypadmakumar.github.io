@@ -3,6 +3,6 @@
     <title>Lad---2019/30</title>
   </head>
   <body>
-    <p style="font-color:green;font size:30">This page is about 30.07.2019</p>
+    <p style="font-color:pink;font size:30">This page is about 30.07.2019</p>
   </body>
   </html>
